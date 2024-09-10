@@ -1,1 +1,1 @@
-This Folder contains  PPT Presentation of the project 
+This File contains  PPT Presentation of the project 
