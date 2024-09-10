@@ -1,16 +1,5 @@
-# FMCG
-A supply chain in the Fast-Moving Consumer Goods (FMCG) sector refers to the entire process of producing and delivering products to consumers quickly and efficiently
+# SUPPLY CHAIN IN FMCG
+AtliQ Mart is a growing FMCG manufacturer headquartered in Gujarat, India. It is currently operational in three cities Surat, Ahmedabad and Vadodara. They want to expand to other metros/Tier 1 cities in the next 2 years.
+ AtliQ Mart is currently facing a problem where a few key customers did not extend their annual contracts due to service issues. It is speculated that some of the essential products were either not delivered on time or not delivered in full over a continued period, which could have resulted in bad customer service. 
+ The Supply Chain team decided to use a standard approach to measure the service level in which they will measure ‘On-time delivery (OT) %’, ‘In-full delivery (IF) %’,  and On Time in full (OTIF) %’ of the customer orders daily basis against the target service   level set  for each customer.
 
-**scope of the supply chain covered in the report, such as production, distribution and logistics.
-
-**Line Fill Rate:
-It an important metric for the supply planning team to understand how many lines they shipped out of the total lines
-ordered. This metric does not consider the delivery time of the order.
-
-**Volume fill Rate:
-Volume Fill Rate or case fill rate is a similar metric useful for the supply planning team to understand the total quantity they
-are able to ship for a customer per order or for a given period of time
-
-**On Tme In Full Rate:
-It determines if an order is delivered BOTH in full and On Time as per the customer order request. An order is OTIF only when
-all the line items inside the order are delivered In Full and ON Time.
